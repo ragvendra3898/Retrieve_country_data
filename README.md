@@ -1,3 +1,8 @@
+![scr5](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/30f7fbf2-1188-4fe8-9614-97164b642968)
+![scr4](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/be38abed-5cb2-48fc-81dc-272e819a8cf7)
+![scr3](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/88678e5e-ce74-49fe-9cd6-e187916d762f)
+![scr2](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/a5160be6-6c08-4bee-8997-ebf703b2a77b)
+![scr1](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/fd7fc332-7d38-421e-bcc4-689a1b3ffd1a)
 # Retrieve_country_data
 In this project I have described that how to create a web api to get country data.
 
