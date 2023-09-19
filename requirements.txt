@@ -1,0 +1,8 @@
+conda create --name assignment_env python==3.11
+conda info --envs
+conda env list
+conda activate assignment_env
+pip install "fastapi[all]"
+pip install passlib
+pip install "python-jose[cryptography]
+
