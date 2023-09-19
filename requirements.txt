@@ -1,7 +1,7 @@
-conda create --name assignment_env python==3.11
-conda info --envs
-conda env list
-conda activate assignment_env
+conda create --name project_env python==3.11
+#conda info --envs
+#conda env list
+conda activate project_env
 pip install "fastapi[all]"
 pip install "python-jose[cryptography]
 
