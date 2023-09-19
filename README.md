@@ -12,28 +12,31 @@ https://docs.conda.io/projects/miniconda/en/latest/
 # Step2
 After downloading miniconda create an virtual environment which is dedicated to your project so that your existing environment remain unchanged.
 
-Use the below command to create a virtual environment named as "project_env" with the python version 3.11
+First change the directory to the project directory where you have cloned the repository
+Use the following command to create a virtual environment named as "project_env" with the python version 3.11
 conda create --name project_env python==3.11
 
 this will create a new environment with latest python including pip
 
-To ensure that environment is successfully created or not run the below command and you will see the project_env 
+To ensure that environment is successfully created or not run the following command and you will see the project_env 
 conda info --envs
 
 # Step3
-Now to use the project_env run the below command
+Now to use the project_env run the following command
 conda activate project_env
 
 # Step4
 Now install the dependencies using pip which we will use in the project
-pip install fastapi['all']
+pip install "fastapi[all]"
+pip install "python-jose[cryptography]
 
 # Step5
-To activating the project_env and running the main.py file just write the below command in terminal
+To activating the project_env and running the main.py file just write the following command in terminal
 start_api.bat
 
 # Step6
-Now copy the below url and paste in your browser, you will get the running api
+Now copy the following url and paste in your browser, you will get the running api
+http://localhost:8000/docs
 
 # Step7
 To use any endpoint you should have first click on "Try it out" button available in right corner of every endpoint
