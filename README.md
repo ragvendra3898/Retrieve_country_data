@@ -26,16 +26,16 @@ Now to use the project_env run the following command
 conda activate project_env
 
 # Step4
-Now install the dependencies using pip which we will use in the project
-pip install "fastapi[all]"
+Now install the dependencies using pip which we will use in the project  
+pip install "fastapi[all]"  
 pip install "python-jose[cryptography]
 
 # Step5
-To activating the project_env and running the main.py file just write the following command in terminal
+To activating the project_env and running the main.py file just write the following command in terminal  
 start_api.bat
 
 # Step6
-Now copy the following url and paste in your browser, you will get the running api
+Now copy the following url and paste in your browser, you will get the running api  
 http://localhost:8000/docs
 
 # Step7
