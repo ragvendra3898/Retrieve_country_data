@@ -22,7 +22,7 @@ To ensure that environment is successfully created or not run the following comm
 conda info --envs
 
 # Step3
-Now to use the project_env run the following command:
+Now to use the project_env run the following command  
 conda activate project_env
 
 # Step4
