@@ -23,7 +23,8 @@ conda info --envs
 
 # Step3
 Now to use the project_env run the following command
-  conda activate project_env
+
+conda activate project_env
 
 # Step4
 Now install the dependencies using pip which we will use in the project
