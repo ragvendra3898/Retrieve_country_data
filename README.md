@@ -1,8 +1,4 @@
-![scr5](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/30f7fbf2-1188-4fe8-9614-97164b642968)
-![scr4](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/be38abed-5cb2-48fc-81dc-272e819a8cf7)
-![scr3](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/88678e5e-ce74-49fe-9cd6-e187916d762f)
-![scr2](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/a5160be6-6c08-4bee-8997-ebf703b2a77b)
-![scr1](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/fd7fc332-7d38-421e-bcc4-689a1b3ffd1a)
+
 # Retrieve_country_data
 In this project I have described that how to create a web api to get country data.
 
@@ -49,5 +45,14 @@ http://localhost:8000/docs
 To use any endpoint you should have first click on "Try it out" button available in right corner of every endpoint
 In the api using first endpoint generate a access token by providing username as "testuser" and password as "testpassword" to access all other endpoints.
 This will generate a new token for you and you can copy this token and paste this in other endpoints in place of "access_token" to use the functionality.
+
+# Step8
+See from the screenshots
+
+![scr1](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/fd7fc332-7d38-421e-bcc4-689a1b3ffd1a)
+![scr2](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/a5160be6-6c08-4bee-8997-ebf703b2a77b)
+![scr3](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/88678e5e-ce74-49fe-9cd6-e187916d762f)
+![scr4](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/be38abed-5cb2-48fc-81dc-272e819a8cf7)
+![scr5](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/30f7fbf2-1188-4fe8-9614-97164b642968)
 
 Thank You
