@@ -1,2 +1,2 @@
-call conda activate assignment_env
+call conda activate project_env
 call python main.py
