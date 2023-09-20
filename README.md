@@ -14,8 +14,9 @@ https://docs.conda.io/projects/miniconda/en/latest/
 
 # Step2
 After downloading miniconda create an virtual environment which is dedicated to your project so that your existing environment remain unchanged.
+First Cloned this repository into your local or you can simply download all files from this repository into your separated local drive folder.  
+After that open your command prompt and change the directory to that folder where you cloned this repository.  
 
-First change the directory to the project directory where you have cloned this repository
 Use the following command to create a virtual environment named as "project_env" with the python version 3.11
 conda create --name project_env python==3.11
 
@@ -36,7 +37,7 @@ pip install "python-jose[cryptography]
 # Step5
 To activating the project_env and running the main.py file just write the following command in terminal  
 start_api.bat  
-In my case I had named my environment assignment_env so just changed the name in start_api.bat but you do not need to change this as you are following my steps.  
+In my case I had named my environment "assignment_env" so just changed the name in start_api.bat but you do not need to change this as you are following my steps.  
 ![src0](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/fe242ffb-14c5-4f11-8c13-a4af5929e00f)
 
 
