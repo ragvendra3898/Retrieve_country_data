@@ -35,7 +35,10 @@ pip install "python-jose[cryptography]
 
 # Step5
 To activating the project_env and running the main.py file just write the following command in terminal  
-start_api.bat
+start_api.bat  
+In my case I had named my environment assignment_env so just changed the name in start_api.bat but you do not need to change this as you are following my steps.  
+![src0](https://github.com/ragvendra3898/Retrieve_country_data/assets/62380006/fe242ffb-14c5-4f11-8c13-a4af5929e00f)
+
 
 # Step6
 Now copy the following url and paste in your browser, you will get the running api  
