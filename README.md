@@ -13,16 +13,16 @@ If you do not have conda in your sytem, Please download using below link:
 https://docs.conda.io/projects/miniconda/en/latest/
 
 # Step2
-After downloading miniconda create an virtual environment which is dedicated to your project so that your existing environment remain unchanged.
+After downloading miniconda create an virtual environment which is dedicated to your project so that your existing environment remain unchanged.  
 First Cloned this repository into your local or you can simply download all files from this repository into your separated local drive folder.  
 After that open your command prompt and change the directory to that folder where you cloned this repository.  
 
-Use the following command to create a virtual environment named as "project_env" with the python version 3.11
+Use the following command to create a virtual environment named as "project_env" with the python version 3.11  
 conda create --name project_env python==3.11
 
 this will create a new environment with latest python including pip
 
-To ensure that environment is successfully created or not, run the following command and you will see the project_env 
+To ensure that environment is successfully created or not, run the following command and you will see the project_env  
 conda info --envs
 
 # Step3
